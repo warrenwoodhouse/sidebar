@@ -2,10 +2,10 @@
 Custom made HTML based sidebar for use on personal use only blogs and personal use only websites.
 
 # code
-[CLICK HERE](https://github.com/warrenwoodhouse/sidebar/blob/main/embed.md) to implement the code.
+[CLICK HERE](https://warrenwoodhouse.github.io/sidebar/embed) to implement the code.
 
 # example
-[CLICK HERE](https://github.com/warrenwoodhouse/sidebar/blob/main/embed.md#example) to see an example.
+[CLICK HERE](https://warrenwoodhouse.github.io/sidebar/embed#example) to see an example.
 
 # things you need to change
 ```
